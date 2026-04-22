@@ -1,0 +1,26 @@
+*********** ROUND 1 ***********
+nabin get card:(7, 2) Score:0
+nabin swapped card 1 (Previous card:7, New card:6)
+nabin final cards:(0, 0) Score: 4
+
+Computer get card:(1, 2) Score:1
+Computer choose to stayed with cards (6, 2)
+
+*********** ROUND 2 ***********
+nabin get card:(6, 4) Score:1
+nabin choose to stayed with cards (6, 4)
+
+Computer get card:(6, 2) Score:4
+Computer swapped card 2 (Previous card:2, New card:3)
+Computer final cards:(6, 3) Score:3
+
+*********** ROUND 3 ***********
+nabin get card:(2, 7) Score:3
+nabin choose to stayed with cards (2, 7)
+
+Computer get card:(1, 2) Score:1
+Computer choose to stayed with cards (2, 7)
+
+^^^^^^^^^^^^^^^^^^^^
+Winner: Computer
+^^^^^^^^^^^^^^^^^^^^

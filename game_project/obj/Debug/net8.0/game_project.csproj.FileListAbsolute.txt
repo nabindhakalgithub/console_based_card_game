@@ -1,0 +1,14 @@
+C:\Users\Nabin\source\repos\game_project\game_project\bin\Debug\net8.0\game_project.exe
+C:\Users\Nabin\source\repos\game_project\game_project\bin\Debug\net8.0\game_project.deps.json
+C:\Users\Nabin\source\repos\game_project\game_project\bin\Debug\net8.0\game_project.runtimeconfig.json
+C:\Users\Nabin\source\repos\game_project\game_project\bin\Debug\net8.0\game_project.dll
+C:\Users\Nabin\source\repos\game_project\game_project\bin\Debug\net8.0\game_project.pdb
+C:\Users\Nabin\source\repos\game_project\game_project\obj\Debug\net8.0\game_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabin\source\repos\game_project\game_project\obj\Debug\net8.0\game_project.AssemblyInfoInputs.cache
+C:\Users\Nabin\source\repos\game_project\game_project\obj\Debug\net8.0\game_project.AssemblyInfo.cs
+C:\Users\Nabin\source\repos\game_project\game_project\obj\Debug\net8.0\game_project.csproj.CoreCompileInputs.cache
+C:\Users\Nabin\source\repos\game_project\game_project\obj\Debug\net8.0\game_project.dll
+C:\Users\Nabin\source\repos\game_project\game_project\obj\Debug\net8.0\refint\game_project.dll
+C:\Users\Nabin\source\repos\game_project\game_project\obj\Debug\net8.0\game_project.pdb
+C:\Users\Nabin\source\repos\game_project\game_project\obj\Debug\net8.0\game_project.genruntimeconfig.cache
+C:\Users\Nabin\source\repos\game_project\game_project\obj\Debug\net8.0\ref\game_project.dll
